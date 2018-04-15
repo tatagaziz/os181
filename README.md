@@ -10,3 +10,7 @@ ZCZC W03 Week03 Demo, Yea!
 ZCZC W04 Week04 Demo, dekimashita!
 
 ZCZC W05 Week05 yayaya
+
+ZCZC W06 Week06 Nice
+
+ZCZC W07 Week07 Nicely done
