@@ -14,3 +14,9 @@ ZCZC W05 Week05 yayaya
 ZCZC W06 Week06 Nice
 
 ZCZC W07 Week07 Nicely done
+
+ZCZC W08 Week08 Marvelously done
+
+ZCZC W09 Week09 Quickly done
+
+ZCZC W10 Week10 Amazingly done
